@@ -1124,7 +1124,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .whatsapp-button { 
     display: block;
     position: fixed;
-    bottom: 40px;
+    bottom: 80px;
     right: 20px;
     padding: 20px;
     border-radius: 50%;
