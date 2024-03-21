@@ -1119,3 +1119,19 @@ body.mobile-nav-active #mobile-nav-toggle {
 #footer p a:hover {
     color: #ffffff;
 }
+
+/*WHATSAPP*/
+.whatsapp-button { 
+    display: block;
+    position: fixed;
+    bottom: 40px;
+    right: 20px;
+    padding: 20px;
+    border-radius: 50%;
+    text-decoration: none;
+    background-image: url("/img/whatsapp-logo.svg");
+    background-size: 75%;
+    background-repeat: no-repeat;
+    background-position: center;
+    transition: background-color 0.3s ease;
+}
