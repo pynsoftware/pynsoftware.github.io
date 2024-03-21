@@ -1125,7 +1125,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     display: block;
     position: fixed;
     bottom: 80px;
-    right: 20px;
+    right: 18px;
     padding: 20px;
     border-radius: 50%;
     text-decoration: none;
