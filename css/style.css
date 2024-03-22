@@ -1124,13 +1124,13 @@ body.mobile-nav-active #mobile-nav-toggle {
 .whatsapp-button { 
     display: block;
     position: fixed;
-    bottom: 20px;
+    bottom: 10px;
     right: 18px;
     padding: 20px;
     border-radius: 50%;
     text-decoration: none;
     background-image: url("/img/whatsapp-logo.svg");
-    background-size: 75%;
+    background-size: 80%;
     background-repeat: no-repeat;
     background-position: center;
     transition: background-color 0.3s ease;
