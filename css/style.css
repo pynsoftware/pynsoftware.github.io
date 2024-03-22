@@ -49,7 +49,7 @@ h6 {
     font-size: 16px;
     border-radius: 50%;
     right: 15px;
-    bottom: 15px;
+    bottom: 50px;
     transition: background 0.5s;
     z-index: 11;
 }
@@ -1124,7 +1124,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .whatsapp-button { 
     display: block;
     position: fixed;
-    bottom: 80px;
+    bottom: 20px;
     right: 18px;
     padding: 20px;
     border-radius: 50%;
