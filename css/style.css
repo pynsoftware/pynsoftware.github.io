@@ -75,8 +75,8 @@ h6 {
 }
 
 #header.header-scrolled {
-   /* background: rgba(63, 105, 170, .9); */
-    background: #222222;
+   background: rgba(63, 105, 170, .9);
+   /*  background: #222222; */
     padding: 10px 0;
     height: 72px;
     transition: all 0.5s;
